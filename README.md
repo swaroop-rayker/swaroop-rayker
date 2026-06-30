@@ -25,10 +25,6 @@ CSE undergrad student | Building Expertise in Python,Machine learning, Neural Ne
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="https://leetcode.com/u/Swaroop_ray/">
-<img src="https://cdn.simpleicons.org/leetcode" height="45" alt="LeetCode"/>
-</a>
-
 <a href="mailto:swaroop.rayker@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
