@@ -71,19 +71,6 @@ and full-stack development.
 
 </div>
 <br>
-<h1>📚 Currently Learning</h1>
-
-```
-LLMs
-MLOps
-Data Pipelines
-APIs
-Caching
-AI Agents
-Kubernetes
-Distributed AI
-Advanced Deep Learning
-```
 
 # 📫 Contact
  Email: swaroop.rayker@gmail.com 
