@@ -154,82 +154,16 @@ DBMS
 
 ---
 
-# 📂 Featured Projects
-
-## Project 1
-
-**Title**
-
-Description
-
-Tech Stack:
-
-```
-Python
-FastAPI
-Docker
-MySQL
-```
-
-Repository:
-
-```
-<PASTE_GITHUB_LINK>
-```
-
-Demo:
-
-```
-<PASTE_LINK>
-```
-
----
-
-## Project 2
-
-Title
-
-Description
-
-Repository
-
-Demo
-
----
-
-## Project 3
-
-Title
-
-Description
-
-Repository
-
-Demo
-
----
-
-## Project 4
-
-Title
-
-Description
-
-Repository
-
-Demo
-
----
 
 # 📈 GitHub Stats
 
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=<swaroop-rayker>&show_icons=true&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api?username=swaroop-rayker&show_icons=true&theme=tokyonight"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=<swaroop-rayker>&layout=compact&theme=tokyonight"/>
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop-rayker&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -240,7 +174,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=<swaroop-ray
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=<swaroop-rayker>&theme=tokyonight"/>
+src="https://streak-stats.demolab.com?user=swaroop-rayker&theme=tokyonight"/>
 
 </div>
 
@@ -251,7 +185,7 @@ src="https://streak-stats.demolab.com?user=<swaroop-rayker>&theme=tokyonight"/>
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=<swaroop-rayker>&theme=tokyo-night"/>
+src="https://github-readme-activity-graph.vercel.app/graph?username=swaroop-rayker&theme=tokyo-night"/>
 
 </div>
 
