@@ -45,20 +45,27 @@ CSE undergrad student | Building Expertise in Python,Machine learning, Neural Ne
 
 Btech CSE student at KLEIT,Hubli and aspiring Intelligent Systems Engineer actively developing expertise in Artificial Intelligence, Machine Learning, and Deep Learning, with a focus on building intelligent, data-driven systems that solve real-world problems. I’m committed to understanding models at a fundamental level and applying them effectively.
 
-# 🧠 Interests
+<ul>
+  <li>Machine Learning and Deep Learning frameworks</li>
+  <li>AI Agents and orchestration</li>
+  <li>Distributed Systems</li>
+  <li>Microservices architecture</li>
+  <li>Data Structures</li>
+  <li>Algorithms</li>
+  <li>System Design and Architectures</li>
+  <li>AI-assisted Coding and Software Architecture</li>
+</ul>
 
-Currently working with:
--Machine Learning and Deep Learning frameworks,
--AI Agents and orchestration,
--Distributed Systems,
--Microservices architecture,
--Data structures ,
--Algorithms,
--System Design and architectures,
--AI assisted coding and Architecting . 
-My goal is to design intelligent, scalable systems that drive real impact. I learn by building — tackling hands-on projects, embracing challenges, and staying connected with the AI and tech community.
-Open to collaboration and knowledge exchange in AI, intelligent systems, and full-stack development.
+<p>
+My goal is to design intelligent, scalable systems that drive real impact.
+I learn by building—tackling hands-on projects, embracing challenges, and staying
+connected with the AI and tech community.
+</p>
 
+<p>
+I'm open to collaboration and knowledge exchange in AI, intelligent systems,
+and full-stack development.
+</p>
 # 🛠 Skills
 
 <div align="center">
