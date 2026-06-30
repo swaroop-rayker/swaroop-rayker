@@ -174,20 +174,6 @@ src="https://streak-stats.demolab.com?user=swaroop-rayker&theme=tokyonight"/>
 
 </div>
 
----
-
-# 📊 Activity Graph
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=swaroop-rayker&theme=tokyo-night"/>
-
-</div>
-
----
-
-
 # 📚 Currently Learning
 
 ```
