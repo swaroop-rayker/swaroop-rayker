@@ -67,7 +67,7 @@ and full-stack development.
 <br>
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,react,nodejs,docker,git,github,linux,bash,mysql,mongodb,gcp,vscode,tensorflow,pytorch,flask,fastapi,opencv,sqlite,postman,redis,kubernetes" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,react,nodejs,docker,git,github,linux,bash,mysql,mongodb,gcp,vscode,tensorflow,pytorch,flask,fastapi,opencv,sqlite,redis" />
 
 </div>
 <br>
