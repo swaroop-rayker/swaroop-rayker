@@ -26,7 +26,7 @@ CSE undergrad student | Building Expertise in Python,Machine learning, Neural Ne
 </a>
 
 <a href="https://leetcode.com/u/Swaroop_ray/">
-<img src="<LEETCODE_ICON_URL>" height="45"/>
+<img src="https://cdn.simpleicons.org/leetcode" height="45" alt="LeetCode"/>
 </a>
 
 <a href="mailto:swaroop.rayker@gmail.com">
@@ -68,12 +68,13 @@ and full-stack development.
 </p>
 # 🛠 Skills
 
+<br>
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,html,css,react,nodejs,docker,git,github,linux,bash,mysql,mongodb,gcp,vscode"/>
 
 </div>
-
+<br>
 # 📚 Currently Learning
 
 ```
