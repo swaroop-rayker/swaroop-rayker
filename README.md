@@ -47,14 +47,14 @@ Btech CSE student at KLEIT,Hubli and aspiring Intelligent Systems Engineer activ
 
 # 🧠 Interests
 Currently working with:
--Machine Learning and Deep Learning frameworks
--AI Agents and orchestration
--Distributed Systems
--Microservices architecture
--Data structures 
--Algorithms
--System Design and architectures
--AI assisted coding and Architecting 
+-Machine Learning and Deep Learning frameworks,
+-AI Agents and orchestration,
+-Distributed Systems,
+-Microservices architecture,
+-Data structures ,
+-Algorithms,
+-System Design and architectures,
+-AI assisted coding and Architecting . 
 My goal is to design intelligent, scalable systems that drive real impact. I learn by building — tackling hands-on projects, embracing challenges, and staying connected with the AI and tech community.
 Open to collaboration and knowledge exchange in AI, intelligent systems, and full-stack development.
 
