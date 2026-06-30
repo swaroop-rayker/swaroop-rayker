@@ -62,7 +62,7 @@ connected with the AI and tech community.
 I'm open to collaboration and knowledge exchange in AI, intelligent systems,
 and full-stack development.
 </p>
-# 🛠 Skills
+<h1>🛠 Skills</h1>
 
 <br>
 <div align="center">
@@ -71,7 +71,7 @@ and full-stack development.
 
 </div>
 <br>
-# 📚 Currently Learning
+<h1>📚 Currently Learning</h1>
 
 ```
 LLMs
