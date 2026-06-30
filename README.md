@@ -29,10 +29,6 @@ CSE undergrad student | Building Expertise in Python,Machine learning, Neural Ne
 <img src="<LEETCODE_ICON_URL>" height="45"/>
 </a>
 
-<a href="<PORTFOLIO_URL>">
-<img src="<PORTFOLIO_ICON_URL>" height="45"/>
-</a>
-
 <a href="swaroop.rayker@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
@@ -207,11 +203,6 @@ Advanced Deep Learning
 ```
 
 # 📫 Contact
-
-| Platform | Link |
-|----------|------|
-| LinkedIn | https://www.linkedin.com/in/swaroop-k-rayker-2bbb8a362/ |
-| GitHub | <PASTE_LINK> |
 | Email | swaroop.rayker@gmail.com |
 
 ---
