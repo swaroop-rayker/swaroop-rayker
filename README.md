@@ -17,7 +17,7 @@ CSE undergrad student | Building Expertise in Python,Machine learning, Neural Ne
 
 <!-- Social Icons -->
 
-<a href="<LINKEDIN_URL>">
+<a href="https://www.linkedin.com/in/swaroop-k-rayker-2bbb8a362/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
@@ -25,7 +25,7 @@ CSE undergrad student | Building Expertise in Python,Machine learning, Neural Ne
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
-<a href="<LEETCODE_URL>">
+<a href="https://leetcode.com/u/Swaroop_ray/">
 <img src="<LEETCODE_ICON_URL>" height="45"/>
 </a>
 
@@ -33,7 +33,7 @@ CSE undergrad student | Building Expertise in Python,Machine learning, Neural Ne
 <img src="<PORTFOLIO_ICON_URL>" height="45"/>
 </a>
 
-<a href="<EMAIL_OR_MAILTO>">
+<a href="swaroop.rayker@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
@@ -245,41 +245,28 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=<swaroop-ray
 
 ---
 
-# 🏆 Achievements
-
-
 
 # 📚 Currently Learning
 
 ```
 LLMs
 MLOps
+Data Pipelines
+APIs
+Caching
+AI Agents
 Kubernetes
 Distributed AI
 Advanced Deep Learning
 ```
 
----
-
-# 🎯 2026 Goals
-
-- Build production AI agents
-- Contribute to Open Source
-- Master System Design
-- Learn Kubernetes
-- Publish ML Projects
-
----
-
 # 📫 Contact
 
 | Platform | Link |
 |----------|------|
-| LinkedIn | <PASTE_LINK> |
+| LinkedIn | https://www.linkedin.com/in/swaroop-k-rayker-2bbb8a362/ |
 | GitHub | <PASTE_LINK> |
-| LeetCode | <PASTE_LINK> |
-| Portfolio | <PASTE_LINK> |
-| Email | <PASTE_EMAIL> |
+| Email | swaroop.rayker@gmail.com |
 
 ---
 
