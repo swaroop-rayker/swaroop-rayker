@@ -48,7 +48,7 @@ Btech CSE student at KLEIT,Hubli and aspiring Intelligent Systems Engineer activ
   <li>Microservices architecture</li>
   <li>Data Structures</li>
   <li>Algorithms</li>
-  <li>System Design and Architectures</li>
+  <li>System Design</li>
   <li>AI-assisted Coding and Software Architecture</li>
 </ul>
 
