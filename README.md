@@ -21,7 +21,7 @@ CSE undergrad student | Building Expertise in Python,Machine learning, Neural Ne
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
-<a href="<GITHUB_URL>">
+<a href="https://github.com/swaroop-rayker">
 <img src="https://skillicons.dev/icons?i=github" height="45"/>
 </a>
 
